@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Philipp Ross</title>
+    <title>Home on Philipp Ross</title>
     <link>https://biophilross.github.io/</link>
-    <description>Recent content on Philipp Ross</description>
+    <description>Recent content in Home on Philipp Ross</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://biophilross.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My first post</title>
+      <title>Reads</title>
       <link>https://biophilross.github.io/posts/first-post/</link>
       <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://biophilross.github.io/posts/first-post/</guid>
-      <description>Just making sure this works</description>
+      <description>These are readings I would like to remember and come back to from time to time and will be updated on occasion.
+The bus ticket theory of genius
+A trilogy on human genetics
+ Our vast, shared family tree Your ancestors lived all over the world Where did your genetic ancestors come from?  Beware adaptationist story-telling: The spandrels of San Marco
+The viruses that made us human</description>
     </item>
     
   </channel>
