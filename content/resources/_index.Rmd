@@ -1,7 +1,0 @@
----
-categories:
-- resources
-tags:
-- resources
-title: Resources
----
