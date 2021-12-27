@@ -8,11 +8,23 @@
     <language>en-US</language>
     <lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://biophilross.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Projects</title>
+      <link>https://biophilross.github.io/projects/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://biophilross.github.io/projects/</guid>
+      <description>Molecular immunology in the Adams Lab Coming soon!
+ Plasmodium computational genomics in the Llinás Lab As a member of the Llinás Lab I contributed to work in understanding transcriptional regulation in the deadliest human infecting parasite that causes malaria, Plasmodium falciparum.
+Primary contributions resulted in the following publications:
+ Red Blood Cell Invasion by the Malaria Parasite Is Coordinated by the PfAP2-I Transcription Factor Refining the transcriptome of the human malaria parasite Plasmodium falciparum using amplification-free RNA-seq  Want to invstigate our data yourself?</description>
+    </item>
+    
+    <item>
       <title>Reads</title>
-      <link>https://biophilross.github.io/posts/first-post/</link>
+      <link>https://biophilross.github.io/posts/reads/</link>
       <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://biophilross.github.io/posts/first-post/</guid>
+      <guid>https://biophilross.github.io/posts/reads/</guid>
       <description>These are readings I would like to remember and come back to from time to time and will be updated on occasion.
 The bus ticket theory of genius
 A trilogy on human genetics
