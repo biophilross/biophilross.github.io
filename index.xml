@@ -1,35 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Philipp Ross</title>
-    <link>https://biophilross.github.io/</link>
-    <description>Recent content in Home on Philipp Ross</description>
+    <title>Phil Ross</title>
+    <link>/</link>
+    <description>Recent content on Phil Ross</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://biophilross.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projects</title>
-      <link>https://biophilross.github.io/projects/</link>
-      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://biophilross.github.io/projects/</guid>
-      <description>Molecular immunology in the Adams Lab Coming soon!
- Plasmodium computational genomics in the Llinás Lab As a member of the Llinás Lab I contributed to work in understanding transcriptional regulation in the deadliest human infecting parasite that causes malaria, Plasmodium falciparum.
-Primary contributions resulted in the following publications:
- Red Blood Cell Invasion by the Malaria Parasite Is Coordinated by the PfAP2-I Transcription Factor Refining the transcriptome of the human malaria parasite Plasmodium falciparum using amplification-free RNA-seq  Want to invstigate our data yourself?</description>
+      <guid>/about/</guid>
+      <description>I am a protein biochemist by training, but a biologist with broad interests that range from the atomic to organismal scale in principle. I have a B.S. in Bioengineering from Binghamton University and a Ph.D. in Genetics from the University of Chicago.
+As a computational biologist in the lab of Manuel Llinás, I contributed to studies of transcriptional regulation in Plasmodium falciparum, which inspired me pursue a Ph.D. in order to learn more about life at the molecular scale.</description>
     </item>
     
     <item>
       <title>Reads</title>
-      <link>https://biophilross.github.io/posts/reads/</link>
-      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      <link>/blog/reads/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://biophilross.github.io/posts/reads/</guid>
+      <guid>/blog/reads/</guid>
       <description>These are readings I would like to remember and come back to from time to time and will be updated on occasion.
 The bus ticket theory of genius
 A trilogy on human genetics
- Our vast, shared family tree Your ancestors lived all over the world Where did your genetic ancestors come from?  Beware adaptationist story-telling: The spandrels of San Marco
+Our vast, shared family tree Your ancestors lived all over the world Where did your genetic ancestors come from? Beware adaptationist story-telling: The spandrels of San Marco
 The viruses that made us human</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Cytokine engineering in the Mendoza Lab
+Coming soon!
+Molecular immunology in the Adams Lab
+Coming sooner!
+Plasmodium computational genomics in the Llinás Lab
+As a member of the Llinás Lab I contributed to work in understanding transcriptional regulation in the deadliest human infecting parasite that causes malaria, Plasmodium falciparum.
+Primary contributions resulted in the following publications:
+Red Blood Cell Invasion by the Malaria Parasite Is Coordinated by the PfAP2-I Transcription Factor Refining the transcriptome of the human malaria parasite Plasmodium falciparum using amplification-free RNA-seq Want to invstigate our data yourself?</description>
     </item>
     
   </channel>

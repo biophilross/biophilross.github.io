@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Phil Ross</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on Phil Ross</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reads</title>
+      <link>/blog/reads/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/reads/</guid>
+      <description>These are readings I would like to remember and come back to from time to time and will be updated on occasion.
+The bus ticket theory of genius
+A trilogy on human genetics
+Our vast, shared family tree Your ancestors lived all over the world Where did your genetic ancestors come from? Beware adaptationist story-telling: The spandrels of San Marco
+The viruses that made us human</description>
+    </item>
+    
+  </channel>
+</rss>

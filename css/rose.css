@@ -1,0 +1,119 @@
+body {
+  font-family: 'Jost', sans-serif !important;
+}
+/*url link markdown*/
+a {
+  color: #000;
+}
+a:hover{
+  color: #000;
+  text-decoration:underline;
+}
+h1 {
+  font-size: 1.6em;
+  color: #000;
+}
+/*blog post font color*/
+p {
+  color: #000;
+}
+/*layout size*/
+.container-sm {
+  max-width: 760px;
+} 
+
+title {
+  color: #000;
+}
+
+/*backround color*/
+.bg-dark {
+  background-color: #fff !important;
+}
+
+/*posts image*/
+img {
+  width: 100%;
+}
+
+/*avatar/profile image*/
+.img-ava {
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  margin-bottom: 30px;
+}
+
+/*header/navbar*/
+.head-rose {
+  color: #000 !important;
+  text-decoration: none;
+}
+.head-rose:hover{
+  color: #000;
+}
+.float-md-start {
+  color: #000;
+  font-size: 24px;
+  text-align: center;
+}
+.nav-masthead .nav-link {
+  padding: .25rem 0;
+  font-weight: 100;
+  color: #000 !important;
+  background-color: transparent;
+  border-bottom: .25rem solid transparent;
+}
+
+.nav-masthead .nav-link:hover,
+.nav-masthead .nav-link:focus {
+  border-bottom-color: rgba(255, 255, 255, .25);
+}
+
+.nav-masthead .nav-link + .nav-link {
+  margin-left: 1rem;
+}
+
+.nav-masthead .active {
+  color: #000;
+  border-bottom-color: #000;
+}
+.nav.nav-masthead.justify-content-center.float-md-end {
+  padding-bottom: 50px;
+}
+/*lists*/
+
+ul {
+  color: #000 !important;
+}
+
+/*tags*/
+
+.tags {
+  padding-left: 0px;
+}
+
+/*date blog post*/
+.time {
+  font-size: 14px;
+  padding-bottom: 20px;
+  color: #000;
+}
+
+/*higtlight code*/
+.highlight {
+  border-radius: 7px;
+
+}
+code,
+pre,
+kbd {
+  line-height: 154%;
+  overflow: auto;
+  max-width: 100%;
+  padding: 0.2em;
+  border-radius: 10px;
+  padding-left: 10px;
+ 
+  font-size: 13px !important;
+}
